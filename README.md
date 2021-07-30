@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Qaisaralirandhawa
 - 👀 I’m interested in Web development, App development, Artificial Intelligence, Machine Learing and Deep Learing.
 - 🌱 I’m currently working on Deep Learing.
-- 📫 How to reach me im.qaisaralirandhawa@gmail.com.
+- 📫 How to reach me 
+-   Email: im.qaisaralirandhawa@gmail.com
+-   Linkdin: linkedin.com/in/qaisar-ali-randhawa-0659a81a1   
 
 <!---
 Qaisaralirandhawa/Qaisaralirandhawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
