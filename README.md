@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on Deep Learing.
 - 📫 How to reach me 
 -   Email: im.qaisaralirandhawa@gmail.com
--   Linkdin: linkedin.com/in/qaisar-ali-randhawa-0659a81a1   
+-   Linkdin: <hr>linkedin.com/in/qaisar-ali-randhawa-0659a81a1</hr>   
 
 <!---
 Qaisaralirandhawa/Qaisaralirandhawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
